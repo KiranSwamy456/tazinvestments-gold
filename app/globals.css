@@ -68,17 +68,17 @@
   --muted: 0 0% 18%;
   --muted-foreground: 0 0% 60%;
 
-  --accent: 240 100% 91%; /* #D3D3FF — lavender */
-  --accent-foreground: 0 0% 11%;
-  --accent-dark: 240 29% 47%; /* #575799 — dark lavender */
-  --accent-light: 240 100% 96%; /* softer highlight */
+  --accent: 47 97% 48%; /* #EFBF04 — gold */
+  --accent-foreground: 0 0% 9%;
+  --accent-dark: 47 90% 32%; /* #9A7B02 — dark gold */
+  --accent-light: 47 92% 62%; /* #F5D04A — light gold */
 
   --destructive: 0 62.8% 30.6%;
   --destructive-foreground: 0 0% 98%;
 
-  --border: 240 14% 22%;
-  --input: 240 12% 18%;
-  --ring: 240 100% 91%;
+  --border: 47 8% 22%;
+  --input: 47 6% 18%;
+  --ring: 47 97% 48%;
 }
 
 @layer base {
